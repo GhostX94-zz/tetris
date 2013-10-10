@@ -1,8 +1,6 @@
 // main.cpp
 #include <cstdio>
 #include <cstdlib>
-using namespace std;
-
 #include <time.h>
 #include <GL/glut.h>
 #include "Game.h"
